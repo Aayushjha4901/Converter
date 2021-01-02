@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604334997 source:d:\turboc\converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
