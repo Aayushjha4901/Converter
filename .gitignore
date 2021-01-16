@@ -1,2 +1,6 @@
 error.log
 error2.log
+converter.depend
+converter.layout
+bin/
+obj/
